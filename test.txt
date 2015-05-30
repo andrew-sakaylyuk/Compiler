@@ -1,0 +1,21 @@
+{
+	// тестовий код для перевірки
+	// правильності роботи компілятора
+	var var1 = 15;
+	const bin1 = b10;
+	do
+		var var2 = 0;
+		var var1 = 10;
+		if( !var1 < bin1 && var1 == 10 || bin1 > 0 ) 
+			var1 = var1 - bin1 + 5;		
+		else var1 = b01 + var1 + ( var1 - var2 + ( var1++) );
+		{
+			const bin2 = b1111;
+			while( var2 < bin2 ) {
+				var2++;
+			}
+		}
+		var2++;
+	while ( var1 == 10 && var1 > bin1 );
+	var1 = bin1;
+}
